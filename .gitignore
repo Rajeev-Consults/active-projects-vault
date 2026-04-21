@@ -1,0 +1,14 @@
+# Obsidian core
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+
+# Plugins (optional — keep or remove depending on sync preference)
+.obsidian/plugins
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
