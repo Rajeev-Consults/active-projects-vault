@@ -1,0 +1,7 @@
+(?d).obsidian/workspace.json
+(?d).obsidian/workspaces.json
+(?d).obsidian/cache
+(?d).obsidian/workspace-mobile.json
+(?d).trash
+(?d)Thumbs.db
+(?d).DS_Store
