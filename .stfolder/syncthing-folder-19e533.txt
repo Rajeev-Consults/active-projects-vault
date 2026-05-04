@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: zoseq-3ftfb
-created: 2026-05-04T10:42:08+05:30

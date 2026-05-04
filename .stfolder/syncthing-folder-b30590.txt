@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: obsidian-active-projects
+created: 2026-05-04T13:29:38+05:30
